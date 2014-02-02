@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Awesome7</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="unamed">Unamed. Set via code.</string>
+    
+	<!--  Warframes  -->
+    <string name="ash">Ash</string>
+    <string name="banshee">Banshee</string>
+    <string name="ember">Ember</string>
+    <string name="excalibur">Excalibur</string>
+    <string name="frost">Frost</string>
+    <string name="loki">Loki</string>
+    <string name="mag">Mag</string>
+    <string name="nekros">Nekros</string>
+    <string name="nova">Nova</string>
+    <string name="nyx">Nyx</string>
+    <string name="oberon">Oberon</string>
+    <string name="rhino">Rhino</string>
+    <string name="saryn">Saryn</string>
+    <string name="trinity">Trinity</string>
+    <string name="valkyr">Valkyr</string>
+    <string name="vauban">Vauban</string>
+    <string name="volt">Volt</string>
+
+	<!--  Ash  -->
+    <string name="shuriken">Shuriken</string>
+    <string name="smoke_screen">Smoke Screen</string>
+    <string name="teleport">Teleport</string>
+    <string name="blade_storm">Blade Storm</string>
+    <string name="shuriken_descr">Launches a spinning blade of pain, dealing high damage and impailing enemies to walls.</string>
+    <string name="smoke_screen_descr">Drops a smoke bomb that stuns enemies and obscures their vision, rendering Ash invisible for a short time.</string>
+    <string name="teleport_descr">Ash teleports towards the target, bringing them into melee range.</string>
+    <string name="blade_storm_descr">Ash goes on a rampage, teleporting and destroying nearby enemies.</string>
+    
+    
+	<!--  Banshee  -->
+    <string name="sonic_boom">Sonic Boom</string>
+    <string name="sonic_boom_descr">Banshee emits a sonic shockwave that pushes targets in range with enough force to incapacitate or kill attackers.</string>
+    <string name="sonar">Sonar</string>
+    <string name="sonar_descr">Using acoustic location, Banshee\'s sonar power finds and tracks enemies and exposes critical weak points to everyone in your squad.</string>
+    <string name="silence">Silence</string>
+    <string name="silence_descr">Ideal for stealth and intrusion situations, using Silence on unaware enemies will limit their perceptions and tactical response.  Warframe attacks, gunfire, and enemy deaths will not trigger enemy awareness while Silence is active.</string>
+    <string name="sound_quake">Sound Quake</string>
+    <string name="sound_quake_descr">Channeling all of her acoustic energy into the ground and surrounding environment structures.  Banshee uses ultrasonic reverberations to violently shake the environment with lethal results.</string>
+    
+    
+	<!--  Ember  -->
+    <string name="fireball">Fireball</string>
+    <string name="fireball_descr">Launches a fiery projectile. It deals high fire damage on contact and moderate fire damage to any who enter the lingering flames.</string>
+    <string name="accelerant">Accelerant</string>
+    <string name="accelerant_descr">Stun nearby enemies with strong accelerant. Increases all fire damage delt.</string>
+    <string name="fire_blast">Fire Blast</string>
+    <string name="fire_blast_descr">Slams the ground for high damage in a small radius and creates a persistent ring of fire which deals high damage over time.</string>
+    <string name="world_on_fire">World On Fire</string>
+    <string name="world_on_fire_descr">Deals high damage over time.</string>
+    
+</resources>

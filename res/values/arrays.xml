@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <string-array name="warframes">
+           <item>@string/ash</item>
+           <item>@string/banshee</item>
+           <item>@string/ember</item>
+           <item>@string/excalibur</item>
+           <item>@string/frost</item>
+           <item>@string/loki</item>
+           <item>@string/mag</item>
+           <item>@string/nekros</item>
+           <item>@string/nova</item>
+           <item>@string/nyx</item>
+           <item>@string/oberon</item>
+           <item>@string/rhino</item>
+           <item>@string/saryn</item>
+           <item>@string/trinity</item>
+           <item>@string/valkyr</item>
+           <item>@string/vauban</item>
+           <item>@string/volt</item>
+    </string-array>
+
+</resources>
